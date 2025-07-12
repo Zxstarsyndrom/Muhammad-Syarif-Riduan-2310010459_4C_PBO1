@@ -48,7 +48,6 @@ public class PeternakanAyamBanjarmasin {
         for (int i = 0; i < ayamArray.length; i++) {
             System.out.println("Ayam ke-" + (i + 1));
             ayamArray[i].infoAyam();
-            ayamArray[i].seleksiJenisAyam();
             System.out.println("==================="); 
         }
 
